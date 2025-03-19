@@ -1,6 +1,6 @@
-#📊 FP20 Analytics Challenge 24 – Shipment & Logistics Report
+📊 #FP20 Analytics Challenge 24 – Shipment & Logistics Report
 
-🚛 Overview
+🚛 ##Overview
 This project is my submission for the FP20 Analytics Challenge 24, where I analyzed shipment efficiency, delivery times, supplier trends, and logistics bottlenecks using Power BI. The report focuses on shipment trends, delivery performance, supplier efficiency, and material logistics to uncover key insights for optimizing supply chain operations.
 
 📌 Key Insights & Visuals
